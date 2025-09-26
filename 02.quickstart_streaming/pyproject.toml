@@ -1,0 +1,10 @@
+[project]
+name = "02-quickstart-streaming"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "certifi>=2025.8.3",
+    "google-adk>=1.14.1",
+]
